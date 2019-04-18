@@ -1,21 +1,5 @@
-CONTEXT
---------
-
-<App>
-  <Provider value={chatService}>
-    <HomePage>
-      <Dashboard>
-        <NewNotifications>
-        </NewNotifications>
-      </Dashboard>
-    </HomePage>
-  
-    <SupportPage>
-      <MyOpenTickets />
-      <TeamSpace>
-        <Chat>
-        </Chat>
-      </TeamSpace>
-    </SupportPage>
-  </Provider>
-</App>
+<h1>install application</h1>
+<ul>
+<li>npm i</li>
+<li>npm run start</li>
+</ul>
